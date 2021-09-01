@@ -11,7 +11,7 @@ Caso você identifique um erro neste tutorial e queira submeter uma alteração,
 O passo 0 de qualquer pull request é identificar o repositório no qual você irá submeter seu código e criar um [Fork](https://docs.github.com/pt/get-started/quickstart/fork-a-repo). No caso desse tutorial o repositório em questão é esse aqui mesmo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aprenda-git/pull-request/define-tutorial-inicial/imagens/fork.gif">
+  <img src="https://raw.githubusercontent.com/aprenda-git/pull-request/main/imagens/fork.gif">
 </p>
 
 Um Fork, de forma resumida, é uma cópia de um repositório para o **seu** perfil que mantém um apontamento para o repositório no qual se originou.
@@ -26,7 +26,7 @@ Selecione o perfil para o qual o repositório será _forkado_ e pronto.
 Após o processo de fork o repositório em questão deverá aparecer na sua lista de repositórios pessoal. Note que ao invés de `aprenda-git/pull-request` o repositório carregará **seu** nome `seuNome/pull-request` pois afinal agora ele _pertence_ a você.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aprenda-git/pull-request/define-tutorial-inicial/imagens/forked.png">
+  <img src="https://raw.githubusercontent.com/aprenda-git/pull-request/main/imagens/forked.png">
 </p>
 
 Realize um clone desse repositório para sua máquina com o seguinte comando via `git cli`.
@@ -83,7 +83,7 @@ Ao commitar suas alterações em uma branch novinha em um repositório derivado 
 Basta voltar ao repositório _forkado_ em seu perfil para notar o seguinte botão:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aprenda-git/pull-request/define-tutorial-inicial/imagens/compare.png">
+  <img src="https://raw.githubusercontent.com/aprenda-git/pull-request/main/imagens/compare.png">
 </p>
 
 O mesmo te levará para uma página no repositório original (por isso o fork aponta o tempo todo para ele) onde você poderá criar de fato seu pull request.
