@@ -11,7 +11,7 @@ Um exemplo de má conduta é:
 
  - Uso de palavras de baixo calão
  - Piadas de mau gosto
- - *Qualquer* tipo de descriminação
+ - *Qualquer* tipo de discriminação
 
 ## Detalhes 
 
