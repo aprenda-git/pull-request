@@ -2,7 +2,7 @@
 name: Má conduta
 about: Denuncie má conduta
 title: Má conduta
-labels: conduta
+labels: ''
 assignees: ''
 
 ---
