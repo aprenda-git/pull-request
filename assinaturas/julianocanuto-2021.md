@@ -1,0 +1,14 @@
+- :smiley: **Nome**: Juliano Canuto :tm:
+- :books: **Aprendendo** : 
+  - Java,
+  - Spring Boot,
+  - Angular
+- :round_pushpin: **Localidade**: Balneário Camboriú/SC
+- :link: **Contato**:
+  - *Github*: https://github.com/julianocanuto/
+  - *Linkedin*: https://www.linkedin.com/in/juliano-canuto/
+- :arrows_counterclockwise: **Compartilhando**:
+  - https://cognitiveclass.ai/ *Cursos gratuitos onde é possível receber certificados e badges da IBM*
+  - https://egghead.io/ - *Foco no frontend (cursos gratuitos de alta qualidade)*
+  - https://explore.skillbuilder.aws/learn - *Plataforma gratuita de cursos da AWS*
+
