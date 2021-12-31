@@ -29,7 +29,7 @@ Após o processo de fork o repositório em questão deverá aparecer na sua list
   <img src="https://raw.githubusercontent.com/aprenda-git/pull-request/main/imagens/forked.png">
 </p>
 
-Realize um clone desse repositório para sua máquina com o seguinte comando via `git cli`.
+Realize um clone desse repositório para sua máquina com o seguinte comando via `git clone`.
 
 `git clone https://github.com/seuNome/pull-request`
 
