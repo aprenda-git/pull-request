@@ -11,5 +11,5 @@
 **📞Contatos:** 
 <ul>
     <li><a href="https://github.com/cecilia-brito">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/cecilia-brito-santos/">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/cec%C3%ADlia-brito-santos/">LinkedIn</a></li>
 </ul>
