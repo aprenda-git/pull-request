@@ -7,5 +7,5 @@
 
 **Aprendendo:** python, reactjs
 
-**Sobre:**    :link: [**Elvis Maicol**](https://www.linkedin.com/in/keitepassos/)
+**Sobre:**    :link: [**KEITE PASSOS**](https://www.linkedin.com/in/keitepassos/)
 
