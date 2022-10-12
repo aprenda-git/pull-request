@@ -1,4 +1,4 @@
-Nome: Roberto Carlos (O cantor ^^)
+Nome: Roberto Carlos (O cantor rs)
 
 Comida favorita: Pizza
 
