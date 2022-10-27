@@ -1,0 +1,1 @@
+## Nome: Monica Kkc 😎**Comida favorita:** Lasanha 🍝**Aprendendo:** Front-End - **Orange Tech+****Sobre:** Formada em 1997 tecnóloga pela Fatec, há 30 anos na área da tecnologia, 10 anos em suporte técnico, me atualizando para voltar para o desenvolvimento.
