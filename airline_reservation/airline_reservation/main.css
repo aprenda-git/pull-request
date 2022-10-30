@@ -1,0 +1,313 @@
+
+*{
+  font-family: 'Audi Type', sans-serif;}
+
+ .AudiType700 {
+font-family: 'Audi Type Extended', sans-serif;
+}
+.Audired {
+   color: #f50537;
+}
+
+/*  rhombus Audi Sports Red */
+.rhombus {
+    width: 22.4px;
+     height: 26.52px;
+     transform: skew(-27deg);
+   font-size:20px;
+   line-height:100px;
+   background: #f50537;
+}
+nav {
+ text-align:center;
+ width: 100%;
+ background: #bebebe;
+ padding: 0;
+ margin: 2;
+ height: 60px;
+ position:left;
+ 
+}
+
+nav ul {
+ background: white  ;
+ list-style:none;
+ padding:0 20px;
+ margin: 0;
+ height: 60px;
+ z-index: 4
+
+}
+
+
+nav ul li {
+ display: inline-block;
+}
+
+
+nav ul li a {
+ color:#333333;
+ display:block;
+ padding:0px 40px;
+ text-decoration:none;
+ float: left;
+ height: 60px;
+  line-height: 60px;
+}
+
+nav ul li:hover {
+ background: #333333 
+;
+}
+
+
+nav ul li:hover > a{
+   color:#f2f2f2 ;
+  text-decoration:none;
+}
+
+nav ul li:hover > ul {
+ display:block;
+}
+
+nav ul ul {
+ background: #BEBEBE;
+ padding:0;
+ text-align: center;
+ display:none;
+ width: 100%;
+ position: absolute;
+ top: 60px;
+ left: 0px;
+}
+
+#searchicon
+{
+ text-align:;
+ padding:;
+ position:;
+    top: 10px;
+ left: 20px;
+ }
+
+
+ 
+/*  styles pour general et tricorps */
+body {
+ margin: 0;
+ padding: 50;
+ font-family:'Audi Type Extended', sans-serif;
+}
+
+.container {
+ display: flex;
+ height: 100vh;
+ padding:0;
+ width:100%
+}
+
+.section {
+ flex: 1;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100%;
+ overflow: hidden;
+ background-size: cover;
+ background-position: center;
+ color: #fff;
+ transition: flex .6s ease;
+ position: relative;
+}
+
+.section .overlay {
+ background-color: rgba(0, 0, 0, 0.7);
+ width: 100%;
+ height: 100%;
+ position: absolute;
+ transition: background-color .8s ease;
+}
+
+.section .content {
+ z-index: 2;
+}
+
+.section:hover {
+ flex: 2;
+}
+
+.section:hover .overlay {
+ background-color: rgba(0, 0, 0, 0.25);
+}
+
+#electrique {
+ background-image: url(https://www.airvistara.com/content/dam/airvistara/global/english/travel-information/vistara-exclusives/common/fnf-bookingwidget.jpg);
+}
+
+
+#disponibles {
+ background-image: url(https://img.freepik.com/free-photo/calm-professional-airline-hostesses-carefully-opening-luggage-shelves-passenger-aircraft_447912-4618.jpg?w=2000);
+}
+
+#rs {
+ background-image: url(https://blog.ipleaders.in/wp-content/uploads/2021/06/aviation.jpg);
+
+ 
+ 
+ }
+
+.border{
+ border:1px solid black;
+ padding:15px 15px 15px;
+}
+html,body {
+ margin: 0;
+ padding: 0;
+ font-family:;
+ background-color: #ffffff ;
+}
+/*  sensible  */
+.dummy_page {
+ height: 200px;
+ width: 100%;
+ background-color: #f0f0f0;
+ text-align: left;
+ box-sizing: border-box;
+ padding: 60px 0px;
+}
+/*  styles pour footer  */
+.footer {
+ width: 100%;
+ position: absolute;
+ height: auto;
+ background-color: #000000;
+ left: 0
+}
+.footer .col {
+ width: 190px;
+ height: auto;
+ float: left;
+ box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ padding: 0px 20px 20px 20px;
+}
+.footer .col h1 {
+ margin: 0;
+ padding: 0;
+ font-family: 'Audi Type', sans-serif;;
+ font-size: 14px;
+ line-height: 17px;
+ padding: 20px 0px 5px 0px;
+ color: rgba(255,255,255,255);
+ font-weight: normal;
+ text-transform: uppercase;
+ letter-spacing: 0.250em;
+}
+.footer .col ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
+.footer .col ul li {
+ color: #999999;
+ font-size: 12px;
+ font-family:  'Audi Type', sans-serif;
+ font-weight: normal;
+ padding: 5px 0px 5px 0px;
+ cursor: pointer;
+ transition: .2s;
+ -webkit-transition: .2s;
+ -moz-transition: .2s;
+}
+.social ul li {
+ display: inline-block;
+ padding-right: 5px !important;
+}
+
+.footer .col ul li:hover {
+ color: #ffffff;
+ transition: .1s;
+ -webkit-transition: .1s;
+ -moz-transition: .1s;
+}
+.clearfix {
+ clear: both;
+}
+@media only screen and (min-width: 1280px) {
+ .contain {
+   width: 1200px;
+   margin: 0 auto;
+ }
+}
+@media only screen and (max-width: 1139px) {
+ .contain .social {
+   width: 1000px;
+   display: block;
+ }
+ .social h1 {
+   margin: 0px;
+ }
+}
+@media only screen and (max-width: 950px) {
+ .footer .col {
+   width: 33%;
+ }
+ .footer .col h1 {
+   font-size: 14px;
+ }
+ .footer .col ul li {
+   font-size: 14px;
+ }
+}
+@media only screen and (max-width: 500px) {
+   .footer .col {
+     width: 50%;
+   }
+   .footer .col h1 {
+     font-size: 14px;
+   }
+   .footer .col ul li {
+     font-size: 13px;
+   }
+}
+@media only screen and (max-width: 340px) {
+ .footer .col {
+   width: 100%;
+ }
+}
+
+#h1footer{
+ padding: 20px;
+ color:#e5e5e5;
+ font-size:12px;
+}
+
+.content h4 a{color:white;text-decoration:none;}
+.content h5 a{color:#333333;text-decoration:none;}
+
+
+
+
+.col-sm-4 > span, .col-sm-4 > h1 {
+ display: inline-block;
+}
+
+#Q7avantage
+{
+ height:390px;
+ margin;
+ padding: 0px;
+ background:black;
+ }
+
+.container-fluid {
+   padding:0px!important;
+}
+.col-md-8{
+  text-align:center;
+}
+p{
+  margin-left:200px;
+  margin-right:200px;
+}

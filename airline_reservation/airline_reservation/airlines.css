@@ -1,0 +1,79 @@
+:root {
+    --stickyBackground: #f5f5f5;
+    --borderColor: #C9D1DC;
+  }
+  
+  body {
+    font-family: 'Nunito Sans', sans-serif;
+    max-width: 960px;
+    background:url(https://img.freepik.com/free-photo/passenger-model-airplane-blue-background_94046-2760.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:center ;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 2vmax;
+  }
+  
+  h1, h2 {
+    margin-top: 48px;
+  }
+  
+  .table-wrapper {
+    height: 320px;
+    border: 1px solid var(--borderColor);
+    overflow: auto;
+  }
+  
+  table {
+    border-spacing: 0;
+  }
+  
+  thead {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  
+  tbody {
+    font-size: 14px;
+  }
+  
+  th, td {
+    padding: 18px 24px;
+    white-space: nowrap;
+    border-bottom: 1px solid var(--borderColor);
+  }
+  
+  tr:last-child td {
+    border: none;
+  }
+  
+  .sticky-header thead {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: var(--stickyBackground);
+    box-shadow: 0 0 6px rgba(0,0,0,0.25);
+  }
+
+  .sticky-column th:first-child,
+  .sticky-column td:first-child {
+    position: sticky;
+    left: 0;
+    background: var(--stickyBackground);
+    border-right: 1px solid var(--borderColor);
+  }
+  
+  .sticky-column th:first-child::after,
+  .sticky-column td:first-child::after {
+    content: "";
+    position: absolute;
+    right: -6px;
+    top: 0;
+    bottom: -1px;
+    width: 5px;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
+    opacity: 0.08;
+  }
