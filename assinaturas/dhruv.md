@@ -1,8 +1,8 @@
-Nome: Dhruv Gonsalves
+Nome: dhruv gonsalves
 
-Comida favorita: Ramen
+Comida favorita: ramen
 
-Aprendendo: Node, React, Flutter
+Aprendendo: react, flutter, node
 
 Sobre: Aqui você pode colocar mais informações sobre você caso queira.
 Se você é do tipo tímido(a) pode deixar em branco ou deletar do arquivo.
