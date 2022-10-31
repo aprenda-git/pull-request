@@ -78,15 +78,14 @@ Após criar o arquivo dentro de `pull-request/assinaturas` volte ao seu terminal
 
 `git push origin nome-da-sua-branch`
 
-Ao commitar suas alterações em uma branch novinha em um repositório derivado de um Fork o GitHub irá automaticamente identificar que você esta tentando criar um pull request.
+Esses comandos enviam suas alterações para a branch criada em sua máquina. 
+Um _fork_ sempre tentará comparar o código com o repositório original, logo quando seu código subir para seu fork o GitHub irá identificar automaticamente que você está querendo criar um `pull request` no repositório original. 
 
-Basta voltar ao repositório _forkado_ em seu perfil para notar o seguinte botão:
+Então, se tudo deu certo ao acessar o **[repositório original](https://github.com/aprenda-git/pull-request)** você deverá ver o seguinte botão:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aprenda-git/pull-request/main/imagens/compare.png">
 </p>
-
-O mesmo te levará para uma página no repositório original (por isso o fork aponta o tempo todo para ele) onde você poderá criar de fato seu pull request.
 
 # 5 - Crie seu pull request
 
