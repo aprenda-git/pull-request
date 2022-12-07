@@ -2,7 +2,7 @@ Bem vindes !
 
 Nome: Luiz LH
 
-Comida favorita: 
+Comida favorita: Churrasco de picanha
 
 Localidade: São José - SC
 
