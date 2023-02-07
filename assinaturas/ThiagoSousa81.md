@@ -1,15 +1,24 @@
-# 👋 Olá, meu nome é Thiago Sousa 😏  
+# 👋 Olá, meu nome é Thiago Sousa 😏👍
 ## 😉 Sou um desenvolvedor Full-Stack 😎
+<details> 
+  
 ### 📚 Atualmente curso o 3º ano do Ensino Médio 📝 no CETEP Alberto Torres 🍎
-#### Estou interessado no desenvolvimento de aplicações onde a Segurança 🔐 da Informação é uma 🚨 PRIORIDADE 🚨
-#### Meu website: https://thiagosousa81.wordpress.com/
+  
+#### Estou interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b> 
+  
 ##### Participo de um programa de Iniciação Ciêntífica 🔬 da UFRB entitulado "Estudo e desenvolvimento de um indicador de pontos para marcação de curva de nível para terrenos inclinados.", relacionado a área de Engenharia Eletrônica 🦾 🦿 🔋
+  
+</details>
 
 ## Sobre mim...
-<code> Meu codinome é "James Scott" </code>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=chartreuse-dark)
 
 <!--- Tipos de projetos trabalhados --->
-                                        
+
+## Área técnica...
+<details><summary>Clique para visualizar</summary>
+
 ### Trabalho em projetos relacionados a...
 
 <details><summary>📝</summary>
@@ -81,6 +90,7 @@
 | 🥇 Basic (Microsoft Small Basic) | Sênior | 3 anos |
 | 🥈 C# (PowerShell cmdlets) | Sênior | 2 anos |
 | 🥉 Bat (CMD) | Pleno | 2 anos |
+| Minecraft Cheats | Pleno | 2 anos |
 | Portugol (VisualG) | Júnior | 2 anos |
 | Git | Aprendiz | 1 ano |
 
@@ -154,6 +164,7 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
 - Microsoft SQL Server
 - MySQL
 - brModelo
+- Microsoft Access
   
 </details>
 
@@ -175,7 +186,6 @@ Obs.: Ainda não trabalho com aplicativos para celular pois tenho muito o que ap
 </details>
 
 Para mais informações visite meu site: https://thiagosousa81.wordpress.com/
-<!---
-ThiagoSousa81/ThiagoSousa81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+</details>
+ 
