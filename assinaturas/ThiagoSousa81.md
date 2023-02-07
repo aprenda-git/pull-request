@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Thiago Sousa 😏👍
 ## 😉 Sou um desenvolvedor Full-Stack 😎
-<details>
+<details> 
   
 ### 📚 Atualmente curso o 3º ano do Ensino Médio 📝 no CETEP Alberto Torres 🍎
   
