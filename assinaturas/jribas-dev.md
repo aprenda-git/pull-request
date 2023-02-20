@@ -11,6 +11,6 @@
  - Node.js
  - Devops
 
- > Apaixonado por tecnologia, futebol e musculação.
- > Pai de 3 meninas, casado com a mulher mais linda do mundo.
+ > Apaixonado por tecnologia, futebol e musculação.\
+ > Pai de 3 meninas, casado com a mulher mais linda do mundo.\
  > Empreendedor na área de tecnologia. CEO da empresa [B3 ERP](https://3b3.com.br)
