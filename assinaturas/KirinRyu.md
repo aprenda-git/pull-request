@@ -2,7 +2,7 @@ Nome: Ryuichi Satoy
 
 Comida Favorita: Curry (Japonês)
 
-Localidade: São Vicente, SP - Brasil
+Localidade: São Vicente, SP
 
 Linguagens de Programação: Java, Python, C e SQL
 
