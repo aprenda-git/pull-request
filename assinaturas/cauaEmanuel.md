@@ -1,4 +1,4 @@
-**Nome:** Cauã Emanuel
+**Nome:** Cauã Emanuel Ferreira de Araujo
 
 **Comida favorita:** Pizzas e Lasanha 💖
 
