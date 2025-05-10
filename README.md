@@ -91,8 +91,9 @@ Então, se tudo deu certo ao acessar o **[repositório original](https://github.
 
 Alguns repositórios fazem uso de templates para auxiliar as pessoas no processo de elaboração de uma boa mensagem de pull request. Não esqueça de marcar as caixinhas dizendo que segui os passos corretamente.
 
-- [davi carneiro](https://github.com/davicarneir8)
-
 Clique em `Create pull request` e :tada: parabéns.
 
 Seu pull request foi criado com sucesso. Em breve iremos revisar o conteúdo enviado para nos certificarmos de que o mesmo não contém nada ofensivo e iremos prosseguir com o processo de _merge_.
+
+#contribuidor
+- [davi carneiro](https://github.com/davicarneir8)
