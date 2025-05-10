@@ -96,4 +96,4 @@ Clique em `Create pull request` e :tada: parabéns.
 Seu pull request foi criado com sucesso. Em breve iremos revisar o conteúdo enviado para nos certificarmos de que o mesmo não contém nada ofensivo e iremos prosseguir com o processo de _merge_.
 
 #contribuidor
-- [davi carneiro](https://github.com/davicarneir8)
+- [Davi Carneiro](https://github.com/davicarneir8)
